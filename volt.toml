@@ -1,0 +1,7 @@
+name = "github-light"
+display-name = "GitHub Light"
+description = "GitHub Theme"
+version = "0.1.0"
+author = "Jsanchezba"
+repository = "https://github.com/jsanchezba/lapce-github-theme"
+themes = ["github-light.toml"]
