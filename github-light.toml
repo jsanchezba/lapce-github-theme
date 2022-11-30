@@ -1,5 +1,6 @@
 [color-theme]
 name = "Github light"
+color-preference = "light"
 
 [color-theme.base]
 white = "#FFFFFF"
@@ -136,17 +137,3 @@ variable = "$blue"
 "terminal.red" = "$red"
 "terminal.white" = "$white"
 "terminal.yellow" = "$yellow"
-
-[ui]
-font-family = ""
-font-size = 13
-icon-size = 0
-header-height = 35
-status-height = 25
-tab-min-width = 100
-scroll-width = 10
-drop-shadow-width = 0
-preview-editor-width = 0
-hover-font-family = ""
-hover-font-size = 0
-trim-search-results-whitespace = true
