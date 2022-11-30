@@ -1,2 +1,2 @@
 # GitHub Theme
-GitHub Light Theme inspired by vscode Github Light theme
+GitHub Light Theme inspired by VSCode Github Light theme
